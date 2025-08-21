@@ -1,8 +1,8 @@
 const mongoose = require('mongoose')
 require('dotenv').config();
 //Define the MongoDB connection URL
-const mongoURL = 'mongodb://127.0.0.1:27017/blogify' //Replace 'mydatabase' with your satabase name 
-// const mongoURL =process.env.MONGODB_URL
+const mongoURL = process.env.MONGODB_URL //Replace 'mydatabase' with your satabase name 
+
 //set up MongoDB connection
 mongoose.connect(mongoURL, {
 
