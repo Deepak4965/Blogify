@@ -3,7 +3,7 @@ const path = require('path')
 const Db = require('./Db')
 const Blog = require('./model/blog')
 const userRoute = require('./routes/user')
-const blogRoute = require('./routes/Blog')
+const blogRoute = require('./routes/blog')
 
 const cookieParser = require('cookie-parser')
 require('dotenv').config();
