@@ -70,6 +70,12 @@ Copy code
 npm start
 Open: 👉 http://localhost:3000
 
+ScreeShots:-
+![WhatsApp Image 2025-08-25 at 2 24 23 AM (1)](https://github.com/user-attachments/assets/163ea619-a2db-4099-aaef-4b33be51c038)
+![WhatsApp Image 2025-08-25 at 2 24 23 AM](https://github.com/user-attachments/assets/ea55b42e-3b5f-496e-a9a4-42dd15524907)
+![WhatsApp Image 2025-08-25 at 2 24 22 AM](https://github.com/user-attachments/assets/c4db0c8f-e161-40d4-b12e-9166cabed0b3)
+
+
 📚 What I Learned
 How to connect Node.js with MongoDB using Mongoose.
 
@@ -80,6 +86,7 @@ Structuring a project with MVC architecture.
 Performing full CRUD operations (Create, Read, Update, Delete).
 
 Using EJS for server-side rendering.
+
 
 
 🤝 Contributing
